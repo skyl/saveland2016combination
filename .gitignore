@@ -1,0 +1,7 @@
+citations
+*.swp
+natural-products-alzheimers.*
+!natural-products-alzheimers.tex
+!natural-products-alzheimers.pdf
+
+build.sh
